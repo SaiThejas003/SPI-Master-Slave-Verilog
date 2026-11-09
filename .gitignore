@@ -1,0 +1,12 @@
+# Verilator generated files
+obj_dir/
+
+# Simulation executables
+*.vvp
+*.o
+
+# Generated waveform
+*.vcd
+
+# Editor files
+.vscode/
